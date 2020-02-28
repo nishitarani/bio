@@ -13,7 +13,7 @@
 * **Nisha Academy** *(2016-Present)* : Teaching/Mentoring students from 1st to 12th standard (CBSE Board).
   * Subjects taught:  Maths, Physics, Chemistry, Economics and English
   * Tasks included: Biweekly Setting of questions papers/homework assignments for regular evaluations of students.
-  * After joining my academy, students scores imporved by 20-50 %
+  * After joining my academy, students scores improved by at least 20-50 % . 
   
 * **Nisha Garden** *(2017-Present)*:
   * Seeds Procurement, Planting, Preparation of Soil, Nurturing of plants, Harvesting (When applicable).
@@ -22,27 +22,27 @@
 ## Education
 
 
-* MA (Economics) / 2nd Div / 2017-2019 :  Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur
-* BA (Economics, English, Psychology ) / 1st Div / 2014-2017: St. Andrews College, Gorakhpur
-* Nursery Teacher Training(NTT)  / 1st Div / 2014-2016
-* 12th (Maths, Physics, Chemistry ) / 2nd Div / Kendriya Vidyalaya, GKP 
-* 10th (Maths, Science, English, Social Studies ) / 1st Div / Kendriya Vidyalaya, GKP 
+* MA (Economics) / 2nd Div / 2017-2019 :  Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur.
+* BA (Economics, English, Psychology ) / 1st Div / 2014-2017: St. Andrews College, Gorakhpur.
+* Nursery Teacher Training(NTT)  / 1st Div / 2014-2016 
+* 12th (Maths, Physics, Chemistry ) / 2nd Div / Kendriya Vidyalaya, GKP.
+* 10th (Maths, Science, English, Social Studies ) / 1st Div / Kendriya Vidyalaya, GKP.
 
 
 ## Achievements
 
-* Debate 1st price / B.A / St. Andrews College / October, 2015 : Role of youth in eradication of corruption 
-* Debate 2nd prize / M.A / DDU / March, 2018: Impact of Demonisation in India 
-* Debate 2nd Prize / M.A / DDU / March , 2019: Is India ready to be a Cashless economy ?
-* Running 1st / 800m / November/2011.
-* Relay Race 3rd/ 800m / November/2011.
-* Running 3rd / 100m / November/ 2011.
+* Debate 1st price / B.A / St. Andrews College / October, 2015 : *Role of youth in eradication of corruption*
+* Debate 2nd prize / M.A / DDU / March, 2018: *Impact of Demonisation in India* 
+* Debate 2nd Prize / M.A / DDU / March , 2019: *Is India ready to be a Cashless economy?*
+* Running 1st / 800m / November / 2011.
+* Relay Race 3rd/ 800m / November / 2011.
+* Running 3rd / 100m / November / 2011.
 * Running 3rd / 200m / December / 2010.
-* Running 2nd / 100m/ December/ 2010.
-* Running 2nd / 400m / December/ 2009
-* Running 1st / 100m / December/ 2009.
-* Running 2nd / 400m/ December/ 2007.
-* Ball Relay Race 2nd / December/ 2005.
+* Running 2nd / 100m/ December / 2010.
+* Running 2nd / 400m / December / 2009
+* Running 1st / 100m / December / 2009.
+* Running 2nd / 400m/ December / 2007.
+* Ball Relay Race 2nd / December / 2005.
 * Group song 2nd / 2005.
 
 
@@ -62,21 +62,21 @@
 * **Gardening**: 
   * Flowers (~15-20 variety)
   * Fruits (Banana, Strawberry, Guava, Lemon, Lychee)
-  * Vegetable (bottle gourd or Lauki, beans, spinach, Cauliflower, Cabbage,tomato etc )
+  * Vegetable (Bottle gourd or Lauki, Beans, Spinach, Cauliflower, Cabbage,Tomato etc.)
   * Show plants ( ~10-15 variety)
-  * Indoor-plants (money plant, air-purifier plants)
+  * Indoor-plants ( Money plant, air-purifier plants)
 * **Cooking**
-  * Superfoods: Sprouts (Lentils sprounts, Vegetable Sprouts)
+  * Superfoods: Sprouts (Lentil sprounts, Vegetable Sprouts)
   * Sabji: North, South indian dishes (~10 different variety). 
-  * Rotis: Plain, Beetroot, Spinach Roti, Muli Paratha, Gobhi Paratha.
-  * Rice: Plain, Jeera Rice, Pulao
+  * Rotis / Parathas: Plain, Beetroot & Spinach Roti. Muli Paratha, Gobhi Paratha.
+  * Rice: Plain Rice, Jeera Rice, Pulao
   * Desert: Kulfi, Kheer, Seviyan. 
   * Cake: Vanilla, Chocholate.
 * **Travelling**
   * Mount Abu, Jammu, Bangalore 
-* **Yoga** *(Intermediate Practitioner)*
-  * Asana
-  * Pranayam
+* **Yoga**
+  * Asana (Intermediate Practitioner)
+  * Pranayam (Intermediate Practitioner)
 * **Meditation**
   * Mindfulness (Beginner)
   * Vipassana (Beginner)
@@ -106,6 +106,6 @@
 
 
 ### NOTE: 
-The sample videos/pictures of my gardening, cooking, travelling, etc will be linked soon to this page.
+The sample videos/pictures of my gardening, cooking, travelling, etc. will be linked soon to this page.
 
 
