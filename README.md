@@ -80,6 +80,8 @@
 * **Meditation**
   * Mindfulness (Beginner)
   * Vipassana (Beginner)
+* **Photography** (Beginner)
+  * Capturing interesting moments in a frame while exploring this world through my hobbies.
   
 ## Family Details
  
@@ -103,7 +105,7 @@
   * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
 
-  
-
+### NOTE: 
+The samples videos/pictures of my gardening, cooking, travelling, etc will be linked soon to this page.
 
 
