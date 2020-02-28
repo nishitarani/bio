@@ -18,9 +18,9 @@ Buying seeds, planning, preparing soils, harvesting.
 
 * MA(Economics) (2017-2019)
 * BA(Economics, English, Psychology ) (2014-2017)
-* NTT (2014-2016)
-* 10th / KV, GKP 
-* 12th / KV, GKP / Maths, Physics, Chemistry 
+* Nursery Teacher Training(NTT) (2014-2016)
+* 10th (Maths, Science, English, Social Studies )/ Kendriya Vidyalaya, GKP 
+* 12th (Maths, Physics, Chemistry ) / Kendriya Vidyalaya, GKP 
 
 
 ## Achievements
