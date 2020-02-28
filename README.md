@@ -15,7 +15,7 @@
   * After joining my academy, students scores imporved by 20-50 %
   
 * **Nisha Garden** *(2017-Present)*:
-Buying seeds, planting, preparing soils, harvesting.
+Seeds Procurement, planting, preparing soils, harvesting.
 
 ## Education
 
