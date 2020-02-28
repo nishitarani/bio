@@ -1,3 +1,7 @@
+## Nisha Rani
+![alt text](img/nisha-pic.jpg "Nisha's Profile Pic")
+
+
 ## Fields of Interest
 
 * Economics/Finance
