@@ -63,7 +63,7 @@ Buying seeds, planning, preparing soils, harvesting.
   * Mindfulness (Beginner)
   * Vipassana (Biginner)
   
- ## Family Details
+## Family Details
  
 * **Father:  Shri. Tarkeshwar Sharma** 
   * Indian Air Force : Radio Communication Engineer / Retired (Ex-Servicemen)
