@@ -32,7 +32,7 @@ Buying seeds, planting, preparing soils, harvesting.
 
 ## Volunteer Work
 
-* **Smile Roti Bank** *(2017-Present)*: My contribution includes teaching and contribution items such as stationary,clothes which can be of aid to underprivileged kids.
+* **Smile Roti Bank(NGO)** *(2017-Present)*: My contribution includes teaching and contribution items such as stationary,clothes which can be of aid to underprivileged kids.
 
 
 ## Skills
