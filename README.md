@@ -59,7 +59,7 @@ Buying seeds, planning, preparing soils, harvesting.
 * **Yoga** *(Intermediate Practitioner)*
   * Asana
   * Pranayam
-* **Meditation*
+* **Meditation**
   * Mindfulness (Beginner)
   * Vipassana (Biginner)
   
@@ -82,7 +82,7 @@ Buying seeds, planning, preparing soils, harvesting.
   * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
 * **Sister (Youngest): Priyanka Sharma**
- * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
+  * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
 
   
