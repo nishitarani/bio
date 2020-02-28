@@ -4,26 +4,28 @@
 
 ## Fields of Interest
 
-* Economics/Finance
-* Teaching
+* Economics / Finance
+* Teaching / Mentoring
+* Healthcare 
 
 ## Work Experience
 
 * **Nisha Academy** *(2016-Present)* : Teaching/Mentoring students from 1st to 12th standard (CBSE Board).
-  * Subjects taught:  Maths, Physics, Chemistry, Economics, English
+  * Subjects taught:  Maths, Physics, Chemistry, Economics and English
   * Tasks included: Biweekly Setting of questions papers/homework assignments for regular evaluations of students.
   * After joining my academy, students scores imporved by 20-50 %
   
 * **Nisha Garden** *(2017-Present)*:
-Seeds Procurement, planting, preparing soils, harvesting.
+  * Seeds Procurement, Planting, Preparation of Soil, Nurturing of plants, Harvesting (When applicable).
+  * Terrace Gardening, Container Gardening etc.
 
 ## Education
 
 
-* MA(Economics) (2017-2019): Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur
-* BA(Economics, English, Psychology ) (2014-2017): St. Andrews College, Gorakhpur
+* MA (Economics) (2017-2019): Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur
+* BA (Economics, English, Psychology ) (2014-2017): St. Andrews College, Gorakhpur
 * Nursery Teacher Training(NTT) (2014-2016)
-* 10th (Maths, Science, English, Social Studies )/ Kendriya Vidyalaya, GKP 
+* 10th (Maths, Science, English, Social Studies ) / Kendriya Vidyalaya, GKP 
 * 12th (Maths, Physics, Chemistry ) / Kendriya Vidyalaya, GKP 
 
 
@@ -46,7 +48,7 @@ Seeds Procurement, planting, preparing soils, harvesting.
 
 ## Volunteer Work
 
-* **Smile Roti Bank(NGO)** *(2017-Present)*: My contribution includes teaching and contribution items such as stationary,clothes which can be of aid to underprivileged kids.
+* **Smile Roti Bank(NGO)** *(2017-Present)*: My contribution includes teaching and contribution items such as stationary, clothes which can be of aid to underprivileged kids.
 
 
 ## Skills
@@ -58,16 +60,18 @@ Seeds Procurement, planting, preparing soils, harvesting.
 ## Hobbies / Non-Academic Interests
 
 * **Gardening**: 
-  * Flowers (~10 variety)
-  * Fruits (banana, strawberry, guava, lemon)
+  * Flowers (~15-20 variety)
+  * Fruits (Banana, Strawberry, Guava, Lemon, Lychee)
   * Vegetable (bottle gourd or Lauki, beans, spinach, Cauliflower, Cabbage,tomato etc )
-  * Show plants ( 5 variety)
+  * Show plants ( ~10-15 variety)
   * Indoor-plants (money plant, air-purifier plants)
 * **Cooking**
-  * Sabji: North, South indian dishes ~10 different variety. 
-  * Rotis: Plain, beetroot, spinach roti, muli paratha, gobhi paratha
+  * Superfoods: Sprouts (Lentils sprounts, Vegetable Sprouts)
+  * Sabji: North, South indian dishes (~10 different variety). 
+  * Rotis: Plain, Beetroot, Spinach Roti, Muli Paratha, Gobhi Paratha.
   * Rice: Plain, Jeera Rice, Pulao
-  * Desert: Kulfi, 
+  * Desert: Kulfi, Kheer, Seviyan. 
+  * Cake: Vanilla, Chocholate.
 * **Travelling**
   * Mount Abu, Jammu, Bangalore 
 * **Yoga** *(Intermediate Practitioner)*
@@ -75,7 +79,7 @@ Seeds Procurement, planting, preparing soils, harvesting.
   * Pranayam
 * **Meditation**
   * Mindfulness (Beginner)
-  * Vipassana (Biginner)
+  * Vipassana (Beginner)
   
 ## Family Details
  
@@ -87,7 +91,7 @@ Seeds Procurement, planting, preparing soils, harvesting.
 
 * **Mother: Smt. Manju Sharma**
   * Nursery Teacher Training(NTT) Graduate (2 years course)
-  * BA(Geography)
+  * BA (Geography)
   * Air Force Wives Welfare Association (AFWWA): Maintaining Administrative, Logistics aspects for ~20 years, Awarded 4 times by Station Commander of Air Force Station GKP for exemplary contribution.
 
 * **Brother (Eldest): Prashant K. Sharma**
