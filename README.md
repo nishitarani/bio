@@ -7,11 +7,11 @@
 
 * **Nisha Academy** *(2016-Present)* : Teaching/Mentoring students from 1st to 12th standard (CBSE Board).
   * Subjects taught:  Maths, Physics, Chemistry, Economics, English
-  * Tasks included: Biweekly Setting of questions papers/homework assigments for regular evaluations
+  * Tasks included: Biweekly Setting of questions papers/homework assignments for regular evaluations of students.
   * After joining my academy, students scores imporved by 20-50 %
   
 * **Nisha Garden** *(2017-Present)*:
-Buying seeds, planning, preparing soils, harvesting.
+Buying seeds, planting, preparing soils, harvesting.
 
 ## Education
 
