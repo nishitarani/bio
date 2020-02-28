@@ -16,8 +16,8 @@ Buying seeds, planting, preparing soils, harvesting.
 ## Education
 
 
-* MA(Economics) (2017-2019)
-* BA(Economics, English, Psychology ) (2014-2017)
+* MA(Economics) (2017-2019): Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur
+* BA(Economics, English, Psychology ) (2014-2017): St. Andrews College, Gorakhpur
 * Nursery Teacher Training(NTT) (2014-2016)
 * 10th (Maths, Science, English, Social Studies )/ Kendriya Vidyalaya, GKP 
 * 12th (Maths, Physics, Chemistry ) / Kendriya Vidyalaya, GKP 
@@ -25,10 +25,20 @@ Buying seeds, planting, preparing soils, harvesting.
 
 ## Achievements
 
-* Debate 1st price / B.A / St. Andrews College / --month, Year /
-* Debate 2nd prize / M.A / DDU / month, year
-* Debate 2nd Prize / M.A / DDU / month, year
-* Running 1st / 800m / month, Year (count total races)
+* Debate 1st price / B.A / St. Andrews College / October, 2015 : Role of youth in eradication of corruption 
+* Debate 2nd prize / M.A / DDU / March, 2018: Impact of Demonisation in India 
+* Debate 2nd Prize / M.A / DDU / March , 2019: Is India ready to be a Cashless economy ?
+* Running 1st / 800m / November/2011.
+* Relay Race 3rd/ 800m / November/2011.
+* Running 3rd / 100m / November/ 2011.
+* Running 3rd / 200m / December / 2010.
+* Running 2nd / 100m/ December/ 2010.
+* Running 2nd / 400m / December/ 2009
+* Running 1st / 100m / December/ 2009.
+* Running 2nd / 400m/ December/ 2007.
+* Ball Relay Race 2nd / December/ 2005.
+* Group song 2nd / 2005.
+
 
 ## Volunteer Work
 
@@ -41,7 +51,7 @@ Buying seeds, planting, preparing soils, harvesting.
 * **Technical Skills**:
   * Computer Skills: Python Programming, Web Development ( HTML, CSS, Javascript ), Platforms: Linux (Ubuntu), Windows
 
-## Hobbies
+## Hobbies / Non-Academic Interests
 
 * **Gardening**: 
   * Flowers (~10 variety)
