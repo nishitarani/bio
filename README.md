@@ -106,6 +106,6 @@
 
 
 ### NOTE: 
-The samples videos/pictures of my gardening, cooking, travelling, etc will be linked soon to this page.
+The sample videos/pictures of my gardening, cooking, travelling, etc will be linked soon to this page.
 
 
