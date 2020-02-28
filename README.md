@@ -51,9 +51,9 @@ Buying seeds, planting, preparing soils, harvesting.
   * Indoor-plants (money plant, air-purifier plants)
 * **Cooking**
   * Sabji: North, South indian dishes ~10 different variety. 
-  * Rotis: plain, beetroot, spinach roti, muli paratha, gobhi paratha
-  * Rice: Jeera Rice, Pulao
-  * Desert: Kufi, 
+  * Rotis: Plain, beetroot, spinach roti, muli paratha, gobhi paratha
+  * Rice: Plain, Jeera Rice, Pulao
+  * Desert: Kulfi, 
 * **Travelling**
   * Mount Abu, Jammu, Bangalore 
 * **Yoga** *(Intermediate Practitioner)*
