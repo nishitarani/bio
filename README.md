@@ -74,7 +74,7 @@
 
 ## Volunteer Work
 
-* **Smile Roti Bank ( NGO ) ** *(2017-Present)*:  Smile Roti Bank is a ~14 Years old NGO focussed on enabling underpriviledged kids with education, food and shelter. 
+* **Smile Roti Bank ( NGO )**  *(2017-Present)*:  Smile Roti Bank is a ~14 Years old NGO focussed on enabling underpriviledged kids with education, food and shelter. 
   * My association with the NGO has been in the form of teaching and contribution in the form of stationary, clothes etc. which can be of aid to underprivileged kids.
 
 
