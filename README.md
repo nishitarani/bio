@@ -44,7 +44,7 @@
 | Intermediate (CBSE 12th: Maths, Physics, Chemistry )                          | 2nd Div | Kendriya Vidyalaya, GKP                              |
 | High School (CBSE 10th: Maths, Science, English, Social Studies )             | 1st Div | Kendriya Vidyalaya, GKP                              |
 
-## Heathcare Education   
+## Healthcare Education   
   
 |                Course Name              |
 |:---------------------------------------:|
