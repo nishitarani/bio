@@ -7,6 +7,7 @@
 * Economics / Finance
 * Teaching / Mentoring
 * Healthcare 
+* Computer Science (Minor)
 
 ## Work Experience
 
@@ -19,22 +20,30 @@
 * **Nisha Urban Farm** *(2017-Present)*:  
   * *Objective*: Terrace Gardening, Container Gardening for vegetables and flora (Indoor and outdoor).
   * Tasks: Seeds Procurement, Planting, Preparation of Soil, Nurturing of plants, Harvesting (When applicable).
-  * Results: [Instagram: **EnviroGreen** ](https://www.instagram.com/envirogreen_/), [Blog](https://rnishacom.wordpress.com/)
+  * Results: [Instagram: **EnviroGreen** ](https://www.instagram.com/envirogreen_/), [Blog: **EnrioGreen**](https://rnishacom.wordpress.com/)
 
 ## Education
 
-* MA (Economics) / 2nd Div / 2017-2019 :  Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur.
-* BA (Economics, English, Psychology ) / 1st Div / 2014-2017: St. Andrews College, Gorakhpur.
-* Nursery Teacher Training(NTT)  / 1st Div / 2014-2016 / Air Force School, Gorakhpur.
-* 12th (Maths, Physics, Chemistry ) / 2nd Div / Kendriya Vidyalaya, GKP.
-* 10th (Maths, Science, English, Social Studies ) / 1st Div / Kendriya Vidyalaya, GKP.
-* Be Your own Doctor by Dr. Salila Tiwari: 4 week 
-* Sharan Super Salads: 
-* Satvic Movement: 
+## Academic Education
+|                 Degree / Course                 |  Rank   |               University / Institution               |
+|:-----------------------------------------------:|:-------:|:----------------------------------------------------:|
+| MA (Economics)                                  | 2nd Div | Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur |
+| BA (Economics, English, Psychology )            | 1st Div | St. Andrews College, Gorakhpur.                      |
+| Diploma (Database Management System)            | 1st Div | St. Andrews College, Gorakhpur.                      |
+| Nursery Teacher Training (NTT)                  | 1st Div | Air Force School, Gorakhpur                          |
+| 12th (Maths, Physics, Chemistry )               | 2nd Div | Kendriya Vidyalaya, GKP                              |
+| 10th (Maths, Science, English, Social Studies ) | 1st Div | Kendriya Vidyalaya, GKP                              |
+
+## Heathcare Education 
+|                Course Name              |
+|:---------------------------------------:|
+| Be Your own Doctor by Dr. Salila Tiwari |
+|           Sharan Super Salads           |
+|      Satvic Movement by Subah Jain      |
 
 
 ## Achievements
-
+* Head sout and guide (2 years) / Rover 
 * Debate 1st price / B.A / St. Andrews College / October, 2015 : *Role of youth in eradication of corruption*
 * Debate 2nd prize / M.A / DDU / March, 2018: *Impact of Demonisation in India* 
 * Debate 2nd Prize / M.A / DDU / March , 2019: *Is India ready to be a Cashless economy?*
