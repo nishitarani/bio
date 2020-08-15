@@ -33,7 +33,8 @@
 
 ## Education
 
-## Academic Education
+## Academic Education 
+  
 |                 Degree                                                        |  Rank   |               University / Institution               |
 |:-----------------------------------------------------------------------------:|:-------:|:----------------------------------------------------:|
 | MA ( Economics )                                                              | 2nd Div | Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur |
@@ -43,7 +44,8 @@
 | Intermediate (CBSE 12th: Maths, Physics, Chemistry )                          | 2nd Div | Kendriya Vidyalaya, GKP                              |
 | High School (CBSE 10th: Maths, Science, English, Social Studies )             | 1st Div | Kendriya Vidyalaya, GKP                              |
 
-## Heathcare Education 
+## Heathcare Education   
+  
 |                Course Name              |
 |:---------------------------------------:|
 | Be Your own Doctor by Dr. Salila Tiwari |
@@ -51,7 +53,8 @@
 |      Satvic Movement by Subah Jain      |
 
 
-## Achievements
+## Achievements   
+    
 | Competition          | Prize | Remarks                                                                           |
 |----------------------|-------|-----------------------------------------------------------------------------------|
 | Debate               | 1st   | *Role of youth in eradication of corruption*. St. Andrews College (B.A)           |
