@@ -25,7 +25,7 @@
 ## Education
 
 ## Academic Education
-|                 Degree / Course                 |  Rank   |               University / Institution               |
+|                 Degree                          |  Rank   |               University / Institution               |
 |:-----------------------------------------------:|:-------:|:----------------------------------------------------:|
 | MA (Economics)                                  | 2nd Div | Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur |
 | BA (Economics, English, Psychology )            | 1st Div | St. Andrews College, Gorakhpur.                      |
@@ -38,7 +38,7 @@
 |                Course Name              |
 |:---------------------------------------:|
 | Be Your own Doctor by Dr. Salila Tiwari |
-|           Sharan Super Salads           |
+|  The Super Salads Class by SHARAN India |
 |      Satvic Movement by Subah Jain      |
 
 
