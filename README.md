@@ -7,32 +7,41 @@
 * Economics / Finance
 * Teaching / Mentoring
 * Healthcare 
-* Computer Science (Minor)
+* Computer Science 
 
 ## Work Experience
 
-* **Nisha Academy** *(2016-Present)*: 
-  * *Objective*:Teaching / Mentoring students from 1st to 12th standard (CBSE Board).
+* **Nisha Academy** *(2016 - Present)*: 
+  * **Objective**:Teaching / Mentoring students from 1st to 12th standard (CBSE Board).
   * Subjects taught:  Maths, Physics, Chemistry, Economics and English, Social Sciences.
   * Tasks included: Daily lecture preparation and biweekly(twice a week) formulation of questions papers & homework assignments for regular evaluations of students.
   * Results After joining my academy, students scores improved by at least 20-50 % . 
   
-* **Nisha Urban Farm** *(2017-Present)*:  
-  * *Objective*: Terrace Gardening, Container Gardening for vegetables and flora (Indoor and outdoor).
+* **Nisha Urban Farm** *(2017 - Present)*:  
+  * **Objective**: Terrace Gardening, Container Gardening for vegetables and flora (Indoor and outdoor).
   * Tasks: Seeds Procurement, Planting, Preparation of Soil, Nurturing of plants, Harvesting (When applicable).
-  * Results: [Instagram: **EnviroGreen** ](https://www.instagram.com/envirogreen_/), [Blog: **EnrioGreen**](https://rnishacom.wordpress.com/)
+  * Results: [Instagram: **EnviroGreen** ](https://www.instagram.com/envirogreen_/), [Blog: **Nisha Rani**](https://rnishacom.wordpress.com/)
+  
+  
+## Position of Responsibility
+* **Bharat Ranger Lead** ( 2014 - 2017):
+  * Lead a team of 24 rangers for various Camps, Workshops and Activities all year round.
+  * **Rover & Ranger Camp**: Lead organization and management of 5-day camp (eg. First Aid, Forest Survival Skills etc.) every year as a Ranger Lead.
+  * **Lead Rover Activities**: Lead Oganization and management of various activities (Social Service, Diabetes Awareness Workshop, Weekly meetings etc.)  year as a Ranger Lead.  
+* **National Seminar Volunteer Lead** (2019)
+  * Lead the student volunteer team for 2-day National Seminar on Paradigm Shift in Indian Economy. 
 
 ## Education
 
 ## Academic Education
-|                 Degree                          |  Rank   |               University / Institution               |
-|:-----------------------------------------------:|:-------:|:----------------------------------------------------:|
-| MA (Economics)                                  | 2nd Div | Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur |
-| BA (Economics, English, Psychology )            | 1st Div | St. Andrews College, Gorakhpur.                      |
-| Diploma (Database Management System)            | 1st Div | St. Andrews College, Gorakhpur.                      |
-| Nursery Teacher Training (NTT)                  | 1st Div | Air Force School, Gorakhpur                          |
-| 12th (Maths, Physics, Chemistry )               | 2nd Div | Kendriya Vidyalaya, GKP                              |
-| 10th (Maths, Science, English, Social Studies ) | 1st Div | Kendriya Vidyalaya, GKP                              |
+|                 Degree                                                        |  Rank   |               University / Institution               |
+|:-----------------------------------------------------------------------------:|:-------:|:----------------------------------------------------:|
+| MA ( Economics )                                                              | 2nd Div | Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur |
+| BA ( Economics, English, Psychology )                                         | 1st Div | St. Andrews College, Gorakhpur.                      |
+| Diploma ( Database Management System )                                        | 1st Div | St. Andrews College, Gorakhpur.                      |
+| Nursery Teachers Training ( Diploma in Child Education & Applied Psychology ) | 1st Div | Air Force School, Gorakhpur                          |
+| Intermediate (CBSE 12th: Maths, Physics, Chemistry )                          | 2nd Div | Kendriya Vidyalaya, GKP                              |
+| High School (CBSE 10th: Maths, Science, English, Social Studies )             | 1st Div | Kendriya Vidyalaya, GKP                              |
 
 ## Heathcare Education 
 |                Course Name              |
@@ -43,34 +52,36 @@
 
 
 ## Achievements
-* Head sout and guide (2 years) / Rover 
-* Debate 1st price / B.A / St. Andrews College / October, 2015 : *Role of youth in eradication of corruption*
-* Debate 2nd prize / M.A / DDU / March, 2018: *Impact of Demonisation in India* 
-* Debate 2nd Prize / M.A / DDU / March , 2019: *Is India ready to be a Cashless economy?*
-* Running 1st Prize / 800m / November / 2011.
-* Relay Race 3rd Prize / 800m / November / 2011.
-* Running 3rd Prize / 100m / November / 2011.
-* Running 3rd Prize / 200m / December / 2010.
-* Running 2nd Prize / 100m/ December / 2010.
-* Running 2nd Prize / 400m / December / 2009
-* Running 1st Prize / 100m / December / 2009.
-* Running 2nd Prize / 400m/ December / 2007.
-* Ball Relay Race 2nd Prize  / December / 2005.
-* Group song 2nd Prize / 2005.
+| Competition          | Prize | Remarks                                                                           |
+|----------------------|-------|-----------------------------------------------------------------------------------|
+| Debate               | 1st   | *Role of youth in eradication of corruption*. St. Andrews College (B.A)           |
+| Debate               | 2nd   | *Impact of Demonisation in India*. Deen Dayal Upadhyaya University (M.A)          |
+| Debate               | 2nd   | *Is India ready to be a Cashless economy?*. Deen Dayal Upadhyaya University (M.A) |
+| Middle Distance Race | 1st   | 800 meters. Kendriya Vidyalaya, GKP.                                              |
+| Relay Race           | 3rd   | 800 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 3rd   | 100 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 3rd   | 200 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 2nd   | 100 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 2nd   | 400 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 1st   | 100 meters. Kendriya Vidyalaya, GKP.                                              |
+| Sprint               | 2nd   | 400 meters. Kendriya Vidyalaya, GKP.                                              |
+| Ball Relay Race      | 2nd   | 400 meters. Kendriya Vidyalaya, GKP.                                              |
+| Group Song           | 2nd   | Kendriya Vidyalaya, GKP.                                                          |
 
 
 ## Volunteer Work
 
-* **Smile Roti Bank(NGO)** *(2017-Present)*:  <<<<add content>>>>
-  * My contribution includes teaching and contribution items such as stationary, clothes which can be of aid to underprivileged kids.
+* **Smile Roti Bank ( NGO ) ** *(2017-Present)*:  Smile Roti Bank is a ~14 Years old NGO focussed on enabling underpriviledged kids with education, food and shelter. 
+  * My association with the NGO has been in the form of teaching and contribution in the form of stationary, clothes etc. which can be of aid to underprivileged kids.
 
 
 ## Skills
 
 * **Technical Skills**:
-  * Computer Skills: Python Programming, Web Development ( HTML, CSS, Javascript ), Platforms: Linux (Ubuntu), Windows
+  * Computer Skills: Python Programming, Web Development ( HTML, CSS, Javascript ), Databases (SQL).
+  * Platforms: Linux (Ubuntu), Windows
 * **Soft Skills**:
-  * Interpersonal communication skill
+  * Active Listening, Leadership, Interpersonal communication skill, Management skills.
 
 ## Hobbies / Non-Academic Interests
 
