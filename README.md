@@ -16,7 +16,7 @@
   * Tasks included: Daily lecture preparation and biweekly(twice a week) formulation of questions papers & homework assignments for regular evaluations of students.
   * Results After joining my academy, students scores improved by at least 20-50 % . 
   
-* **Nisha Garden** *(2017-Present)*:  
+* **Nisha Urban Farm** *(2017-Present)*:  
   * *Objective*: Terrace Gardening, Container Gardening for vegetables and flora (Indoor and outdoor).
   * Tasks: Seeds Procurement, Planting, Preparation of Soil, Nurturing of plants, Harvesting (When applicable).
   * Results: [Instagram: **EnviroGreen** ](https://www.instagram.com/envirogreen_/), [Blog](https://rnishacom.wordpress.com/)
@@ -65,28 +65,28 @@
 
 ## Hobbies / Non-Academic Interests
 
-* **Gardening**: 
-  * Flowers (~15-20 variety)
-  * Fruits (Banana, Strawberry, Guava, Lemon, Lychee)
-  * Vegetable (Bottle gourd or Lauki, Beans, Spinach, Cauliflower, Cabbage,Tomato etc.)
-  * Show plants ( ~10-15 variety)
-  * Indoor-plants ( Money plant, air-purifier plants)
-* **Cooking**
+* **Urban Farming**: To grow organic fruits, vegetables and other flora in an urban setting to meet the need of food, and ambience of the home. Some details regarding "Nisha Urban Farm" is as below:
+  * Fruits ( Banana, Strawberry, Guava, Lemon, Lychee, Mango )
+  * Vegetable ( Bottle gourd or Lauki, Beans, Spinach, Cauliflower, Cabbage,Tomato etc.)
+  * Herbs: Mint, Ashwagandha, Giloy
+  * Flowers ( ~15-20 variety )
+  * Indoor Plants: Air-purifier Plants and show plants ( ~15-20 variety )
+* **Cooking**: To prepare food which is nutritious and good on the palate.
   * Superfoods: Sprouts (Lentil sprounts, Vegetable Sprouts)
   * Sabji: North, South indian dishes and Satvic Sabji (~10 different variety). 
   * Rotis / Parathas: Plain, Beetroot & Spinach Roti. Muli Paratha, Gobhi Paratha.
   * Rice: Plain Rice, Jeera Rice, Pulao.
   * Desert: Kulfi, Kheer, Seviyan. 
   * Cake: Vanilla, Chocholate.
-* **Travelling**
-  * Mount Abu, Jammu, Bangalore, Mumbai
-* **Yoga**
+* **Travelling**: To explore countryside more than urban dwellings.
+  * Mount Abu, Jammu, Bangalore, Mumbai, Gorakhpur.
+* **Yoga**: To achieve balance within body.
   * Asana (Intermediate Practitioner)
   * Pranayam (Intermediate Practitioner)
-* **Meditation**
+* **Meditation**: To achieve balance of mind.
   * Mindfulness (Beginner)
   * Vipassana (Beginner)
-* **Photography** (Intermediate)
+* **Photography** (Intermediate): To cature beautiful and interesting moments in life.
   * Capturing interesting moments in a frame while exploring this world through my hobbies.
   
 ## Family Details
