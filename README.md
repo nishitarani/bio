@@ -126,7 +126,7 @@
   * Air Force Wives Welfare Association (AFWWA): Maintaining Administrative, Logistics aspects for ~20 years, Awarded 4 times by Station Commander of Air Force Station GKP for exemplary contribution.
 
 * **Brother (Eldest): Prashant K. Sharma**
-  * Current (DOJ: Oct 2020) : Researcher in Artificial Intelligence at Hitachi Central Laboratory, Tokyo, Japan.
+  * Artificial Intelligence Researcher at Hitachi Central Laboratory, Tokyo, Japan.
   * M.Tech (Research Assistant) in Computer Science and Engineering, IIT Bombay, India.
   * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
