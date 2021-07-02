@@ -121,9 +121,11 @@
     * Diploma in Electronics Radio and Communication Engineering / Indian Air Force 
 
 * **Mother: Smt. Manju Sharma**
+  * Air Force Wives Welfare Association (AFWWA): Maintaining Administrative, and Logistical aspects for ~20 years. 
+    * Awarded 4 times by Station Commander of Air Force Station GKP for exemplary contribution.
   * BA (Geography) / Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur
   * Nursery Teacher Training(NTT) Graduate (2 years course) 
-  * Air Force Wives Welfare Association (AFWWA): Maintaining Administrative, Logistics aspects for ~20 years, Awarded 4 times by Station Commander of Air Force Station GKP for exemplary contribution.
+  * 
 
 * **Brother (Eldest): Prashant K. Sharma**
   * Artificial Intelligence Researcher at Hitachi Central Laboratory, Tokyo, Japan.
@@ -131,6 +133,7 @@
   * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
 * **Sister (Youngest): Priyanka Sharma**
+  * Software Engineer at Tata Consultancy Services. 
   * B.Tech, Computer Science and Engineering, KNIT Sultanpur (Govt. College, U.P.)
 
 
