@@ -13,9 +13,9 @@
 
 * **Nisha Academy** *(2016 - Present)*: 
   * **Objective**:Teaching / Mentoring students from 1st to 12th standard (CBSE Board).
-  * Subjects taught:  Maths, Physics, Chemistry, Economics and English, Social Sciences.
+  * Subjects taught:  Maths, Physics, Chemistry, Economics , English, and Social Sciences.
   * Tasks included: Daily lecture preparation and biweekly(twice a week) formulation of questions papers & homework assignments for regular evaluations of students.
-  * Results After joining my academy, students scores improved by at least 20-50 % . 
+  * Results After joining my academy, students scores have improved by at least 20-50 % . 
   
 * **Nisha Urban Farm** *(2017 - Present)*:  
   * **Objective**: Terrace Gardening, Container Gardening for vegetables and flora (Indoor and outdoor).
