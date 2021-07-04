@@ -1,6 +1,11 @@
 ## Nisha Rani
 ![alt text](img/nisha-pic.jpg "Nisha's Profile Pic")
 
+# Date of Birth
+* 26 Feb 1996 (25 Years)
+
+# Height
+* 157.5 cm ( 5 ft 2 inch)
 
 ## Fields of Interest
 
